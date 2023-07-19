@@ -1,0 +1,34 @@
+_repo: The-Pillars-of-Hercules-Volume-II-of-2-b-A-Narrative-of-Travels-in-Spain-and-Morocco-in-1848_71103
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Urquhart, David
+    alias: Urquhart, D. (David)
+    birthdate: 1805
+    deathdate: 1877
+    gutenberg_agent_id: '54520'
+    url: http://www.gutenberg.org/2009/agents/54520
+    wikipedia: https://en.wikipedia.org/wiki/David_Urquhart
+description: ''
+gutenberg_issued: '2023-07-03'
+identifiers:
+  gutenberg: '71103'
+language: en
+pgterms:marc904:
+- https://archive.org/details/b29351066_0002/page/n4/mode/2up
+- https://archive.org/details/b29351066_0001/page/n3/mode/2up
+pgterms:marc905: 20200513104005urquart
+pgterms:marc906: '1850'
+pgterms:marc907: GB
+production_note: Carol Brown, Sonya Schermann and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bRichard Bentley, $c1850.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Pillars of Hercules, Volume II (of 2) : $b A Narrative of Travels in Spain
+  and Morocco in 1848'
+url: http://www.gutenberg.org/ebooks/71103
